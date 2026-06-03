@@ -1,4 +1,4 @@
-[# Docker Configuration: Containerized Profile Web Application
+# Docker Configuration: Containerized Profile Web Application
 
 ---
 
