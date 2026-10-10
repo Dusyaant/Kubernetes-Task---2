@@ -45,6 +45,16 @@ Kubernetes-Task---2/
 
 ---
 
+## Kubernetes Deployment
+
+To deploy the Nginx application to the AWS EKS cluster and expose it externally, run the following commands:
+
+1. Apply the deployment and service manifests:
+   ```bash
+   kubectl apply -f deployment.yaml
+   kubectl apply -f service.yaml
+---
+
 ## Step-by-Step Implementation
 
 ### Step 1: Establish Workspace Directory
